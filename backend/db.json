@@ -1,0 +1,67 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "SDDASDASAS",
+      "autoria": "AFSDFSDF",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "conteudo": "Por que meu código funcionou?",
+      "autoria": "Dev ",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "conteudo": "Na volta a gente compra!",
+      "autoria": "Mãe",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "Sou poliglota; falo português, inglês e JavaScript!",
+      "autoria": "Devs",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 9
+    },
+    {
+      "conteudo": "ASDASDSD",
+      "autoria": "AFSDFSDF",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 10
+    },
+    {
+      "conteudo": "BOTAO CARREGAR",
+      "autoria": "devs",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 11
+    },
+    {
+      "conteudo": "Botao a ser carregado",
+      "autoria": "conseguimos",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 12
+    },
+    {
+      "conteudo": "asdasdasda",
+      "autoria": "asdasdasd",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 13
+    },
+    {
+      "conteudo": "\\zx\\x\\",
+      "autoria": "\\zx\\zx\\zx",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 14
+    }
+  ]
+}
